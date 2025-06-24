@@ -1,2 +1,2 @@
 # ChB_Detector
-Scripts for detecting Chalcogen Bond in PDB
+Scripts for detecting Chalcogen Bond in PDB (Protein Data Bank)
